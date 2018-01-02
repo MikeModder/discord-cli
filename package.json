@@ -1,0 +1,12 @@
+{
+  "name": "discord-cli",
+  "version": "1.0.0",
+  "description": "CLI interface for Discor",
+  "main": "app.js",
+  "author": "MikeModder",
+  "license": "MIT",
+  "dependencies": {
+    "ansi-color": "^0.2.1",
+    "discord.js": "^11.2.1"
+  }
+}
